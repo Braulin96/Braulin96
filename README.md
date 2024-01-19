@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4kynwL5Mw/XbBpCX68fHI/AAAAAAAANtA/u0a1bpLskYgrNGb11hSu25Dj_Mig85XJOCLCBGASVH0/51600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Braulin Pires</h1>
 <h3 align="center">A passionate frontend developer from Cape Verde (living in UK)</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif">
