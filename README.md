@@ -1,7 +1,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm Braulin Pires</h1>
 <br>
-<h3 align="center">A passionate frontend developer from Cape Verdes (living in UK)</h3>
+<h3 align="center">A passionate frontend developer from Cape Verde (living in UK)</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif">
 
 🔭 I’m currently working on **RosaCleaning**
