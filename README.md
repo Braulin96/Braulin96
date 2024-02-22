@@ -10,7 +10,7 @@
 
 💬 Ask me about **React**
 
-📫 How to reach me **https://www.linkedin.com/in/braulin-pires-7a13b3145/**
+📫 How to reach me **[https://www.linkedin.com/in/braulin-pires-7a13b3145/](https://www.linkedin.com/in/braulin-pires-7a13b3145/)**
 
 ⚡ Fun fact **I love working out and writing (poetry and do slam)**
 <br>
