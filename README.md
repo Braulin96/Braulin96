@@ -1,4 +1,4 @@
-x<br>
+<br>
 <h1 align="center">Hi 👋, I'm Braulin Pires</h1>
 <br>
 <h3 align="center">A passionate frontend developer from Cape Verde (living in UK)</h3>
