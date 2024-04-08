@@ -6,8 +6,6 @@
 
 🔭 I’m currently working on **RosaCleaning**
 
-🌱 I’m currently learning **Next.js**
-
 💬 Ask me about **React**
 
 📫 How to reach me **[https://www.linkedin.com/in/braulin-pires-7a13b3145/](https://www.linkedin.com/in/braulin-pires-7a13b3145/)**
